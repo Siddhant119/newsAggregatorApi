@@ -1,0 +1,42 @@
+[
+    {
+        "fullName": "Soumya",
+        "email": "soumyagnfd@gmail.com",
+        "password": "$2b$08$Ly4RbLY.wZBeoATd/RHUh.VL8o5pYlfhx0FMk07Xdm/jWKCdr2Zzi",
+        "preferences": {
+            "categories": "travel",
+            "language": "en",
+            "country": "us"
+        }
+    },
+    {
+        "fullName": "test1 name",
+        "email": "aitmffd123@gmail.com",
+        "password": "$2b$08$P9xZB63NwvBARtaCe.4a4uKTsrYMsX3T1ej5UhkyQwXTTIL5cItEG",
+        "preferences": {
+            "categories": "cricket",
+            "language": "en",
+            "country": "us"
+        }
+    },
+    {
+        "fullName": "test name",
+        "email": "aitmffd@gmail.com",
+        "password": "$2b$08$TALXsMNuKipfQ8U5oI3IXeOAN3PEWc6kEPlKxkvlZ9cN.zhzFxhYS",
+        "preferences": {
+            "categories": "business , racing",
+            "language": "en",
+            "country": "us"
+        }
+    },
+    {
+        "fullName": "t2 name",
+        "email": "test1234@gmail.com",
+        "password": "$2b$08$2UCd8Wz5ry2QcFq6bFm.bev1zgFYWQF8DbQKZQ157jPQeJ/oEDAvq",
+        "preferences": {
+            "categories": "football",
+            "language": "en",
+            "country": "us"
+        }
+    }
+]
